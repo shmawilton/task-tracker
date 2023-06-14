@@ -5,6 +5,12 @@
       "day": "No time",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "sdfsdfsd",
+      "day": "sdfds",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
